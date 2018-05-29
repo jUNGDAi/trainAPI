@@ -11,5 +11,6 @@
     "TOKEN_KEY": "jwt1234::simple",
     "JWT_SESSION": {
         "session": false
-    }
+    },
+    "UPLOAD_PATH": "C:/Users/wien/Pictures/train/uploads/"
 }
